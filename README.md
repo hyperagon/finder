@@ -8,5 +8,4 @@ Make sure that it also finds folders starting in . like .DIR
 ```
 
 ### Usage
-`./finder1.sh <search_string> [search_directory]`
 `./finder2.sh <search_string> [search_directory]`
