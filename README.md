@@ -2,6 +2,7 @@
 ### Version 1
 
 Who needs [locate](https://www.geeksforgeeks.org/locate-command-in-linux-with-examples/) anyway?
+
 Vibe-coded with **Mistral**.
 
 ### Usage
