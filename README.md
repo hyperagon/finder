@@ -4,6 +4,9 @@
 Who needs [locate](https://www.geeksforgeeks.org/locate-command-in-linux-with-examples/) anyway?
 Vibe-coded with **Mistral**.
 
+### Usage
+`./finder <name> [directory]`
+
 ### Prompt
 ```
 Make a bash script that finds a file or directory in the $HOME folder with a name ending in a string supplied as an argument,
