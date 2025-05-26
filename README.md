@@ -1,4 +1,4 @@
-# Vibe-coded (File/Folder) Finder
+# (File/Folder) Finder
 
 Who needs [locate](https://www.geeksforgeeks.org/locate-command-in-linux-with-examples/) anyway?
 
@@ -8,6 +8,3 @@ Make a bash script that finds a file or directory in the $HOME folder with a nam
 if there are two arguments the second is where to search.
 Make sure that it also finds folders starting in . like .DIR
 ```
-
-### Usage
-`./finder.sh <search_string> [search_directory]`
