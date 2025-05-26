@@ -5,7 +5,7 @@ Who needs [locate](https://www.geeksforgeeks.org/locate-command-in-linux-with-ex
 Vibe-coded with **Mistral**.
 
 ### Usage
-`./finder <name> [directory]`
+`./finder.sh <name> [directory]`
 
 ### Prompt
 ```
